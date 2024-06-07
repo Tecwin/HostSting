@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className=' flex justify-between np mt-auto'>
+    <div className=' flex justify-between  mt-auto'>
       <ul className=' flex  gap-6 font-lato text-gray-400'>
         <li>
           <a href="#">Facebook</a>
@@ -14,7 +14,7 @@ const Footer = () => {
           <a href="#">Twitter</a>
         </li>
       </ul>
-    <div className='flex gap-2'> 
+    <div className='flex justify-between'> 
       <img className=' w-16' src="./Assets/Expert.jpeg" alt="specialist"/>
       <div>
         <p className=' font-playfair'>Have any Questions ?</p>
