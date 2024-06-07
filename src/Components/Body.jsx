@@ -4,7 +4,7 @@ const Body = () => {
   return (
     <div className=' space-y-4 lg:flex justify-between'>
       <div className='lg:order-2'>
-        <img className='rounded-2xl' width="400px"  src="./src/assets/body-img.jpeg"/>
+        <img className='rounded-2xl' width="400px"  src="./Assets/body-img.jpeg"/>
       </div>
       <div className=' lg:order-1'> 
         <h1 className='text-5xl font-bold font-playfair leading-tight'>
